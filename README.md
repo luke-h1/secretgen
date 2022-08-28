@@ -27,6 +27,15 @@ secretgen -h
   -nn, --no-numbers      generate password without numbers
   -ns, --no-symbols      generate password without symbols
   -h, --help             display help for command
-  
+
 ```
+
+## Build
+
+[![CI / Build](https://github.com/luke-h1/secretgen/actions/workflows/build.yml/badge.svg)](https://github.com/luke-h1/secretgen/actions/workflows/build.yml)
+
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 

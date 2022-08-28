@@ -10,6 +10,9 @@
     "start": "ts-node src/index.ts",
     "tsc": "tsc --noEmit",
     "test": "jest",
+    "lint": "eslint \"./src/**/*.{js, jsx,ts,tsx}\" --quiet --fix && eslint \"./**/*.{js, jsx,ts,tsx}\" --quiet --fix",
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,css,scss,html}\"",
+    "format:check": "prettier --list-different \"src/**/*.{js,jsx,ts,tsx,css,scss,html}\"",
     "gen-env": "gen-env-types .env -o src/types/env.d.ts -e .",
     "link": "npm link",
     "unlink": "npm unlink"
