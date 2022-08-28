@@ -22,3 +22,5 @@ screenshots
 tsconfig.tsbuildinfo
 *.xml
 dist
+*.txt
+coverage
