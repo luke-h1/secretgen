@@ -10,7 +10,7 @@ const passwordService = {
   },
   createPassword: (length = 40, numbers = true, symbols = true): string => {
     const alpha =
-      'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+      'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz';
     const numberRange = '0123456789';
     const symbolRange = "!@#$%^&*()_+=-[]{}|;':,./<>?`~";
 
