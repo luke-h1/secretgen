@@ -10,6 +10,7 @@ Cross-platform. Supports: macOS, Windows, Linux
 git clone https://github.com/luke-h1/secretgen
 cd secretgen
 npm ci 
+npm run build
 npm link # symlink globally
 secretgen -h 
 ```
