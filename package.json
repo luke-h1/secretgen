@@ -3,12 +3,16 @@
   "version": "1.0.0",
   "description": "Secret/password generator CLI",
   "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./dist/src/index.js",
   "scripts": {
     "build": "tsc",
     "start": "node dist/src/index.js",
     "tsc": "tsc --noEmit",
     "test": "jest",
-    "gen-env": "gen-env-types .env -o src/types/env.d.ts -e ."
+    "gen-env": "gen-env-types .env -o src/types/env.d.ts -e .",
+    "link": "npm link",
+    "unlink": "npm unlink"
   },
   "repository": {
     "type": "git",
