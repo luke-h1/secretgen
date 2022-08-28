@@ -30,3 +30,11 @@ secretgen -h
   
 ```
 
+## Build
+
+[![CI / Build](https://github.com/luke-h1/secretgen/actions/workflows/build.yml/badge.svg)](https://github.com/luke-h1/secretgen/actions/workflows/build.yml)
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
