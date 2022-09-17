@@ -34,7 +34,7 @@
   "dependencies": {
     "clipboardy": "2.3.0",
     "commander": "9.4.0",
-    "esbuild": "^0.13.12",
+    "esbuild": "^0.15.7",
     "esbuild-runner": "^2.2.1",
     "pino": "8.4.2",
     "pino-pretty": "9.1.0",
