@@ -46,7 +46,7 @@
     "@types/jest": "^28.1.8",
     "@types/node": "^18.7.18",
     "@types/uuid": "^8.3.0",
-    "@typescript-eslint/eslint-plugin": "^5.35.1",
+    "@typescript-eslint/eslint-plugin": "^5.37.0",
     "@typescript-eslint/parser": "^5.37.0",
     "chalk": "^5.0.1",
     "eslint": "^8.23.1",
