@@ -36,7 +36,7 @@
     "commander": "9.4.0",
     "esbuild": "^0.15.7",
     "esbuild-runner": "^2.2.1",
-    "pino": "8.4.2",
+    "pino": "8.5.0",
     "pino-pretty": "9.1.0",
     "ts-node": "^10.9.1"
   },
