@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "clipboardy": "3.0.0",
-    "commander": "9.4.1",
+    "commander": "9.5.0",
     "esbuild": "^0.15.10",
     "esbuild-runner": "^2.2.1",
     "pino": "8.6.1",
