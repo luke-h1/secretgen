@@ -37,7 +37,7 @@
     "esbuild": "^0.15.10",
     "esbuild-runner": "^2.2.1",
     "pino": "8.6.1",
-    "pino-pretty": "9.1.1",
+    "pino-pretty": "9.3.0",
     "ts-node": "^10.9.1"
   },
   "devDependencies": {
